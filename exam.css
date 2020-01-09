@@ -1,0 +1,4 @@
+a.festival {color: red;}
+a.gandhi {color: cyan;}
+body{background: red url("a.jpg") repeat; background-attachment: fixed ; background-position: bottom-right ;}
+p{ font-family:arial; font-style:oblique; font-variant:normal; font-weight:bold; font-size:30px;  } 
